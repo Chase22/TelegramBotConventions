@@ -1,4 +1,4 @@
-# Convention for standardizing Telegram Bots
+# Convention for the standardization Telegram Bots
 
 ## Changelog
 Version | Date | Note
