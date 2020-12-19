@@ -19,7 +19,7 @@ This document can be applied to any telegram bot that takes in commands from the
 Every bot should follow the following design principles:
 
 ### Communicative
-A bot should transparently communicate problems to the Users. Any command input send to the bot should be reactor to in some way. 
+A bot should transparently communicate problems to the Users. Any command input send to the bot should be reacted to in some way. 
 If it's an invalid command, with a proper output telling the user what the problem is. In case of an error the bot should give 
 the user the information to make it possible for the user to fix the problem by himself or to contact the support of the bot
 
